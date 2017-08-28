@@ -24,13 +24,13 @@
                 "children":
                 [
                     {
-                        "caption": "CSScomb",
+                        "caption": "CSScomb-Updated",
                         "children":
                         [
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/CSScomb/README.md"
+                                    "file": "${packages}/CSScomb-Updated/README.md"
                                 },
                                 "caption": "README"
                             },
@@ -38,7 +38,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/CSScomb/CSScomb.sublime-settings"
+                                    "file": "${packages}/CSScomb-Updated/CSScomb.sublime-settings"
                                 },
                                 "caption": "Settings – Default"
                             },
@@ -53,7 +53,7 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/CSScomb/Default.sublime-keymap"
+                                    "file": "${packages}/CSScomb-Updated/Default.sublime-keymap"
                                 },
                                 "caption": "Key Bindings – Default"
                             },
